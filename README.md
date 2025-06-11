@@ -14,13 +14,13 @@
 3. Установка зависимостей: 
     pip install -r requirements.txt
 
-5. Миграции базы данных: 
+4. Миграции базы данных: 
     python manage.py migrate
 
-6. Создание администратора: 
+5. Создание администратора: 
     python manage.py createsuperuser
 
-7. Перейдите в браузере по адресу:
+6. Перейдите в браузере по адресу:
 http://127.0.0.1:8000
 
 Посмотреть сайт: https://dds-webproject.onrender.com/
