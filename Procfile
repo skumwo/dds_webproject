@@ -1,0 +1,1 @@
+web: gunicorn dds_project.wsgi
