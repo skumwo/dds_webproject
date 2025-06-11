@@ -3,8 +3,8 @@
 Инструкция по установке и запуску проекта
 
 1. Клонирование репозитория: 
-    git clone https://github.com/skumwo/dds_webproject.git
-    cd your-repo
+    1) git clone https://github.com/skumwo/dds_webproject.git
+    2) cd dds_webproject
 
 2. Создание виртуального окружения: 
     1) python -m venv .venv    
@@ -23,4 +23,4 @@
 7. Перейдите в браузере по адресу:
 http://127.0.0.1:8000
 
-   Посмотреть: https://dds-webproject.onrender.com/
+Посмотреть сайт: https://dds-webproject.onrender.com/
