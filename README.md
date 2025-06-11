@@ -23,4 +23,4 @@
 7. Перейдите в браузере по адресу:
 http://127.0.0.1:8000
 
-   Посмотреть: https://dds-webproject.onrender.com/
+Посмотреть сайт: https://dds-webproject.onrender.com/
